@@ -94,6 +94,7 @@ The API runs locally at `http://127.0.0.1:5000` by default.
  GET    : '/organisations/<id>' - Retrieve one organisation        
  PUT    : '/organisations/<id>' - Update organisation details      
  PATCH  : '/organisations/<id>' - Partially update an organisation 
+ 
  DELETE : '/organisations/<id>' - Delete an organisation           
  POST   : '/employees'          - Create an employee               
  GET    : '/employees'          - List employees                   
